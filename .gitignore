@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
